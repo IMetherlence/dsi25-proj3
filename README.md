@@ -2,6 +2,12 @@
 # To Do List for Project 3:
 ## Coding Section:
 Define Problem Statement  
+
+### Problem Statement
+Alcoholics vs Smoking  
+
+We are a medical rehabilitation center
+
 Who are we presenting to?  
 What are we trying to achieve?  
 How do we achieve the goal?  
